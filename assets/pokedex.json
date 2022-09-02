@@ -5,7 +5,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon."
 	},
 	"Ivysaur":{
 		"pokemon_name":"Ivysaur",
@@ -13,7 +14,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
 	},
 	"Venusaur":{
 		"pokemon_name":"Venusaur",
@@ -21,7 +23,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
 	},
 	"Charmander":{
 		"pokemon_name":"Charmander",
@@ -29,7 +32,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail."
 	},
 	"Charmeleon":{
 		"pokemon_name":"Charmeleon",
@@ -37,7 +41,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"When it swings its burning tail, it elevates the temperature to unbearably high levels."
 	},
 	"Charizard":{
 		"pokemon_name":"Charizard",
@@ -45,7 +50,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally."
 	},
 	"Squirtle":{
 		"pokemon_name":"Squirtle",
@@ -53,7 +59,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth."
 	},
 	"Wartortle":{
 		"pokemon_name":"Wartortle",
@@ -61,7 +68,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance."
 	},
 	"Blastoise":{
 		"pokemon_name":"Blastoise",
@@ -69,7 +77,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"A brutal Pokémon with pressurized water jets on its shell. They are used for high speed tackles."
 	},
 	"Caterpie":{
 		"pokemon_name":"Caterpie",
@@ -77,7 +86,8 @@
 		"catch_rate":255,
 		"base_flee":25,
 		"baited_flee":1,
-		"angered_flee":2
+		"angered_flee":2,
+		"pokedex_entry":"Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
 	},
 	"Metapod":{
 		"pokemon_name":"Metapod",
@@ -85,7 +95,8 @@
 		"catch_rate":120,
 		"base_flee":77,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body."
 	},
 	"Butterfree":{
 		"pokemon_name":"Butterfree",
@@ -93,7 +104,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"In battle, it flaps its wings at high speed to release highly toxic dust into the air."
 	},
 	"Weedle":{
 		"pokemon_name":"Weedle",
@@ -101,7 +113,8 @@
 		"catch_rate":255,
 		"base_flee":25,
 		"baited_flee":1,
-		"angered_flee":2
+		"angered_flee":2,
+		"pokedex_entry":"Often found in forests, eating leaves. It has a sharp venomous stinger on its head."
 	},
 	"Kakuna":{
 		"pokemon_name":"Kakuna",
@@ -109,7 +122,8 @@
 		"catch_rate":120,
 		"base_flee":77,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Almost incapable of moving, this Pokémon can only harden its shell to protect itself from predators."
 	},
 	"Beedrill":{
 		"pokemon_name":"Beedrill",
@@ -117,7 +131,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Flies at high speed and attacks using its large venomous stingers on its forelegs and tail."
 	},
 	"Pidgey":{
 		"pokemon_name":"Pidgey",
@@ -125,7 +140,8 @@
 		"catch_rate":255,
 		"base_flee":25,
 		"baited_flee":1,
-		"angered_flee":2
+		"angered_flee":2,
+		"pokedex_entry":"A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand."
 	},
 	"Pidgeotto":{
 		"pokemon_name":"Pidgeotto",
@@ -133,7 +149,8 @@
 		"catch_rate":120,
 		"base_flee":77,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder."
 	},
 	"Pidgeot":{
 		"pokemon_name":"Pidgeot",
@@ -141,7 +158,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP."
 	},
 	"Rattata":{
 		"pokemon_name":"Rattata",
@@ -149,7 +167,8 @@
 		"catch_rate":255,
 		"base_flee":25,
 		"baited_flee":1,
-		"angered_flee":2
+		"angered_flee":2,
+		"pokedex_entry":"Bites anything when it attacks. Small and very quick, it is a common sight in many places."
 	},
 	"Raticate":{
 		"pokemon_name":"Raticate",
@@ -157,7 +176,8 @@
 		"catch_rate":127,
 		"base_flee":75,
 		"baited_flee":1,
-		"angered_flee":10
+		"angered_flee":10,
+		"pokedex_entry":"It uses its whis- kers to maintain its balance. It apparently slows down if they are cut off."
 	},
 	"Spearow":{
 		"pokemon_name":"Spearow",
@@ -165,7 +185,8 @@
 		"catch_rate":255,
 		"base_flee":25,
 		"baited_flee":1,
-		"angered_flee":2
+		"angered_flee":2,
+		"pokedex_entry":"Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne."
 	},
 	"Fearow":{
 		"pokemon_name":"Fearow",
@@ -173,7 +194,8 @@
 		"catch_rate":90,
 		"base_flee":89,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"With its huge and magnificent wings, it can keep aloft without ever having to land for rest."
 	},
 	"Ekans":{
 		"pokemon_name":"Ekans",
@@ -181,7 +203,8 @@
 		"catch_rate":255,
 		"base_flee":25,
 		"baited_flee":1,
-		"angered_flee":2
+		"angered_flee":2,
+		"pokedex_entry":"Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole."
 	},
 	"Arbok":{
 		"pokemon_name":"Arbok",
@@ -189,7 +212,8 @@
 		"catch_rate":90,
 		"base_flee":89,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"It is rumored that the ferocious warning markings on its belly differ from area to area."
 	},
 	"Pikachu":{
 		"pokemon_name":"Pikachu",
@@ -197,7 +221,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"When several of these Pokémon gather, their electricity could build and cause lightning storms."
 	},
 	"Raichu":{
 		"pokemon_name":"Raichu",
@@ -205,7 +230,8 @@
 		"catch_rate":75,
 		"base_flee":95,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Its long tail serves as a ground to protect itself from its own high voltage power."
 	},
 	"Sandshrew":{
 		"pokemon_name":"Sandshrew",
@@ -213,7 +239,8 @@
 		"catch_rate":255,
 		"base_flee":25,
 		"baited_flee":1,
-		"angered_flee":2
+		"angered_flee":2,
+		"pokedex_entry":"Burrows deep underground in arid locations far from water. It only emerges to hunt for food."
 	},
 	"Sandslash":{
 		"pokemon_name":"Sandslash",
@@ -221,7 +248,8 @@
 		"catch_rate":90,
 		"base_flee":89,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape."
 	},
 	"Nidoran♀":{
 		"pokemon_name":"Nidoran♀",
@@ -229,7 +257,8 @@
 		"catch_rate":235,
 		"base_flee":32,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Although small, its venomous barbs render this Pokémon dangerous. The female has smaller horns."
 	},
 	"Nidorina":{
 		"pokemon_name":"Nidorina",
@@ -237,7 +266,8 @@
 		"catch_rate":120,
 		"base_flee":77,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"The female's horn develops slowly. Prefers physical attacks such as clawing and biting."
 	},
 	"Nidoqueen":{
 		"pokemon_name":"Nidoqueen",
@@ -245,7 +275,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves."
 	},
 	"Nidoran♂":{
 		"pokemon_name":"Nidoran♂",
@@ -253,7 +284,8 @@
 		"catch_rate":235,
 		"base_flee":32,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom."
 	},
 	"Nidorino":{
 		"pokemon_name":"Nidorino",
@@ -261,7 +293,8 @@
 		"catch_rate":120,
 		"base_flee":77,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom."
 	},
 	"Nidoking":{
 		"pokemon_name":"Nidoking",
@@ -269,7 +302,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"It uses its powerful tail in battle to smash, constrict, then break the prey's bones."
 	},
 	"Clefairy":{
 		"pokemon_name":"Clefairy",
@@ -277,7 +311,8 @@
 		"catch_rate":150,
 		"base_flee":66,
 		"baited_flee":1,
-		"angered_flee":10
+		"angered_flee":10,
+		"pokedex_entry":"Its magical and cute appeal has many admirers. It is rare and found only in certain areas."
 	},
 	"Clefable":{
 		"pokemon_name":"Clefable",
@@ -285,7 +320,8 @@
 		"catch_rate":25,
 		"base_flee":115,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"A timid fairy Pokémon that is rarely seen. It will run and hide the moment it senses people."
 	},
 	"Vulpix":{
 		"pokemon_name":"Vulpix",
@@ -293,7 +329,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"At the time of birth, it has just one tail. The tail splits from its tip as it grows older."
 	},
 	"Ninetales":{
 		"pokemon_name":"Ninetales",
@@ -301,7 +338,8 @@
 		"catch_rate":75,
 		"base_flee":95,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse."
 	},
 	"Jigglypuff":{
 		"pokemon_name":"Jigglypuff",
@@ -309,7 +347,8 @@
 		"catch_rate":170,
 		"base_flee":58,
 		"baited_flee":1,
-		"angered_flee":10
+		"angered_flee":10,
+		"pokedex_entry":"When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep."
 	},
 	"Wigglytuff":{
 		"pokemon_name":"Wigglytuff",
@@ -317,7 +356,8 @@
 		"catch_rate":50,
 		"base_flee":105,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size."
 	},
 	"Zubat":{
 		"pokemon_name":"Zubat",
@@ -325,7 +365,8 @@
 		"catch_rate":255,
 		"base_flee":25,
 		"baited_flee":1,
-		"angered_flee":2
+		"angered_flee":2,
+		"pokedex_entry":"Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets."
 	},
 	"Golbat":{
 		"pokemon_name":"Golbat",
@@ -333,7 +374,8 @@
 		"catch_rate":90,
 		"base_flee":89,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly."
 	},
 	"Oddish":{
 		"pokemon_name":"Oddish",
@@ -341,7 +383,8 @@
 		"catch_rate":255,
 		"base_flee":25,
 		"baited_flee":1,
-		"angered_flee":2
+		"angered_flee":2,
+		"pokedex_entry":"During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds."
 	},
 	"Gloom":{
 		"pokemon_name":"Gloom",
@@ -349,7 +392,8 @@
 		"catch_rate":120,
 		"base_flee":77,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey."
 	},
 	"Vileplume":{
 		"pokemon_name":"Vileplume",
@@ -357,7 +401,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
 	},
 	"Paras":{
 		"pokemon_name":"Paras",
@@ -365,7 +410,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Burrows to suck tree roots. The mushrooms on its back grow by draw- ing nutrients from the bug host."
 	},
 	"Parasect":{
 		"pokemon_name":"Parasect",
@@ -373,7 +419,8 @@
 		"catch_rate":75,
 		"base_flee":95,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places."
 	},
 	"Venonat":{
 		"pokemon_name":"Venonat",
@@ -381,7 +428,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Lives in the shadows of tall trees where it eats insects. It is attracted by light at night."
 	},
 	"Venomoth":{
 		"pokemon_name":"Venomoth",
@@ -389,7 +437,8 @@
 		"catch_rate":75,
 		"base_flee":95,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"The dust-like scales covering its wings are color coded to indicate the kinds of poison it has."
 	},
 	"Diglett":{
 		"pokemon_name":"Diglett",
@@ -397,7 +446,8 @@
 		"catch_rate":255,
 		"base_flee":25,
 		"baited_flee":1,
-		"angered_flee":2
+		"angered_flee":2,
+		"pokedex_entry":"Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground."
 	},
 	"Dugtrio":{
 		"pokemon_name":"Dugtrio",
@@ -405,7 +455,8 @@
 		"catch_rate":50,
 		"base_flee":105,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground."
 	},
 	"Meowth":{
 		"pokemon_name":"Meowth",
@@ -413,7 +464,8 @@
 		"catch_rate":255,
 		"base_flee":25,
 		"baited_flee":1,
-		"angered_flee":2
+		"angered_flee":2,
+		"pokedex_entry":"Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change."
 	},
 	"Persian":{
 		"pokemon_name":"Persian",
@@ -421,7 +473,8 @@
 		"catch_rate":90,
 		"base_flee":89,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness."
 	},
 	"Psyduck":{
 		"pokemon_name":"Psyduck",
@@ -429,7 +482,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers."
 	},
 	"Golduck":{
 		"pokemon_name":"Golduck",
@@ -437,7 +491,8 @@
 		"catch_rate":75,
 		"base_flee":95,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Often seen swim- ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa."
 	},
 	"Mankey":{
 		"pokemon_name":"Mankey",
@@ -445,7 +500,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Extremely quick to anger. It could be docile one moment then thrashing away the next instant."
 	},
 	"Primeape":{
 		"pokemon_name":"Primeape",
@@ -453,7 +509,8 @@
 		"catch_rate":75,
 		"base_flee":95,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught."
 	},
 	"Growlithe":{
 		"pokemon_name":"Growlithe",
@@ -461,7 +518,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Very protective of its territory. It will bark and bite to repel intruders from its space."
 	},
 	"Arcanine":{
 		"pokemon_name":"Arcanine",
@@ -469,7 +527,8 @@
 		"catch_rate":75,
 		"base_flee":95,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"A Pokémon that has been admired since the past for its beauty. It runs agilely as if on wings."
 	},
 	"Poliwag":{
 		"pokemon_name":"Poliwag",
@@ -477,7 +536,8 @@
 		"catch_rate":255,
 		"base_flee":25,
 		"baited_flee":1,
-		"angered_flee":2
+		"angered_flee":2,
+		"pokedex_entry":"Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand."
 	},
 	"Poliwhirl":{
 		"pokemon_name":"Poliwhirl",
@@ -485,7 +545,8 @@
 		"catch_rate":120,
 		"base_flee":77,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Capable of living in or out of water. When out of water, it sweats to keep its body slimy."
 	},
 	"Poliwrath":{
 		"pokemon_name":"Poliwrath",
@@ -493,7 +554,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers."
 	},
 	"Abra":{
 		"pokemon_name":"Abra",
@@ -501,7 +563,8 @@
 		"catch_rate":200,
 		"base_flee":46,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Using its ability to read minds, it will identify impending danger and TELEPORT to safety."
 	},
 	"Kadabra":{
 		"pokemon_name":"Kadabra",
@@ -509,7 +572,8 @@
 		"catch_rate":100,
 		"base_flee":85,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"It emits special alpha waves from its body that induce headaches just by being close by."
 	},
 	"Alakazam":{
 		"pokemon_name":"Alakazam",
@@ -517,7 +581,8 @@
 		"catch_rate":50,
 		"base_flee":105,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Its brain can out- perform a super- computer. Its intelligence quotient is said to be 5,000."
 	},
 	"Machop":{
 		"pokemon_name":"Machop",
@@ -525,7 +590,8 @@
 		"catch_rate":180,
 		"base_flee":54,
 		"baited_flee":1,
-		"angered_flee":10
+		"angered_flee":10,
+		"pokedex_entry":"Loves to build its muscles. It trains in all styles of martial arts to become even stronger."
 	},
 	"Machoke":{
 		"pokemon_name":"Machoke",
@@ -533,7 +599,8 @@
 		"catch_rate":90,
 		"base_flee":89,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions."
 	},
 	"Machamp":{
 		"pokemon_name":"Machamp",
@@ -541,7 +608,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon."
 	},
 	"Bellsprout":{
 		"pokemon_name":"Bellsprout",
@@ -549,7 +617,8 @@
 		"catch_rate":255,
 		"base_flee":25,
 		"baited_flee":1,
-		"angered_flee":2
+		"angered_flee":2,
+		"pokedex_entry":"A carnivorous Pokémon that traps and eats bugs. It uses its root feet to soak up needed moisture."
 	},
 	"Weepinbell":{
 		"pokemon_name":"Weepinbell",
@@ -557,7 +626,8 @@
 		"catch_rate":120,
 		"base_flee":77,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID."
 	},
 	"Victreebel":{
 		"pokemon_name":"Victreebel",
@@ -565,7 +635,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Said to live in huge colonies deep in jungles, although no one has ever returned from there."
 	},
 	"Tentacool":{
 		"pokemon_name":"Tentacool",
@@ -573,7 +644,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid."
 	},
 	"Tentacruel":{
 		"pokemon_name":"Tentacruel",
@@ -581,7 +653,8 @@
 		"catch_rate":60,
 		"base_flee":101,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey."
 	},
 	"Geodude":{
 		"pokemon_name":"Geodude",
@@ -589,7 +662,8 @@
 		"catch_rate":255,
 		"base_flee":25,
 		"baited_flee":1,
-		"angered_flee":2
+		"angered_flee":2,
+		"pokedex_entry":"Found in fields and mountains. Mistaking them for boulders, people often step or trip on them."
 	},
 	"Graveler":{
 		"pokemon_name":"Graveler",
@@ -597,7 +671,8 @@
 		"catch_rate":120,
 		"base_flee":77,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction."
 	},
 	"Golem":{
 		"pokemon_name":"Golem",
@@ -605,7 +680,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage."
 	},
 	"Ponyta":{
 		"pokemon_name":"Ponyta",
@@ -613,7 +689,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time."
 	},
 	"Rapidash":{
 		"pokemon_name":"Rapidash",
@@ -621,7 +698,8 @@
 		"catch_rate":60,
 		"base_flee":101,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it."
 	},
 	"Slowpoke":{
 		"pokemon_name":"Slowpoke",
@@ -629,7 +707,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack."
 	},
 	"Slowbro":{
 		"pokemon_name":"Slowbro",
@@ -637,7 +716,8 @@
 		"catch_rate":75,
 		"base_flee":95,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps."
 	},
 	"Magnemite":{
 		"pokemon_name":"Magnemite",
@@ -645,7 +725,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves."
 	},
 	"Magneton":{
 		"pokemon_name":"Magneton",
@@ -653,7 +734,8 @@
 		"catch_rate":60,
 		"base_flee":101,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up."
 	},
 	"Farfetch'd":{
 		"pokemon_name":"Farfetch'd",
@@ -661,7 +743,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"The sprig of green onions it holds is its weapon. It is used much like a metal sword."
 	},
 	"Doduo":{
 		"pokemon_name":"Doduo",
@@ -669,7 +752,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints."
 	},
 	"Dodrio":{
 		"pokemon_name":"Dodrio",
@@ -677,7 +761,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Uses its three brains to execute complex plans. While two heads sleep, one head stays awake."
 	},
 	"Seel":{
 		"pokemon_name":"Seel",
@@ -685,7 +770,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"The protruding horn on its head is very hard. It is used for bashing through thick ice."
 	},
 	"Dewgong":{
 		"pokemon_name":"Dewgong",
@@ -693,7 +779,8 @@
 		"catch_rate":75,
 		"base_flee":95,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters."
 	},
 	"Grimer":{
 		"pokemon_name":"Grimer",
@@ -701,7 +788,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories."
 	},
 	"Muk":{
 		"pokemon_name":"Muk",
@@ -709,7 +797,8 @@
 		"catch_rate":75,
 		"base_flee":95,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison."
 	},
 	"Shellder":{
 		"pokemon_name":"Shellder",
@@ -717,7 +806,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
 	},
 	"Cloyster":{
 		"pokemon_name":"Cloyster",
@@ -725,7 +815,8 @@
 		"catch_rate":60,
 		"base_flee":101,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"When attacked, it launches its horns in quick volleys. Its innards have never been seen."
 	},
 	"Gastly":{
 		"pokemon_name":"Gastly",
@@ -733,7 +824,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Almost invisible, this gaseous Pokémon cloaks the target and puts it to sleep without notice."
 	},
 	"Haunter":{
 		"pokemon_name":"Haunter",
@@ -741,7 +833,8 @@
 		"catch_rate":90,
 		"base_flee":89,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Because of its ability to slip through block walls, it is said to be from an- other dimension."
 	},
 	"Gengar":{
 		"pokemon_name":"Gengar",
@@ -749,7 +842,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright."
 	},
 	"Onix":{
 		"pokemon_name":"Onix",
@@ -757,7 +851,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"As it grows, the stone portions of its body harden to become similar to a diamond, but colored black."
 	},
 	"Drowzee":{
 		"pokemon_name":"Drowzee",
@@ -765,7 +860,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams."
 	},
 	"Hypno":{
 		"pokemon_name":"Hypno",
@@ -773,7 +869,8 @@
 		"catch_rate":75,
 		"base_flee":95,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION."
 	},
 	"Krabby":{
 		"pokemon_name":"Krabby",
@@ -781,7 +878,8 @@
 		"catch_rate":225,
 		"base_flee":36,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Its pincers are not only powerful weapons, they are used for balance when walking sideways."
 	},
 	"Kingler":{
 		"pokemon_name":"Kingler",
@@ -789,7 +887,8 @@
 		"catch_rate":60,
 		"base_flee":101,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use."
 	},
 	"Voltorb":{
 		"pokemon_name":"Voltorb",
@@ -797,7 +896,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Usually found in power plants. Easily mistaken for a Pokéball, they have zapped many people."
 	},
 	"Electrode":{
 		"pokemon_name":"Electrode",
@@ -805,7 +905,8 @@
 		"catch_rate":60,
 		"base_flee":101,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"It stores electric energy under very high pressure. It often explodes with little or no provocation."
 	},
 	"Exeggcute":{
 		"pokemon_name":"Exeggcute",
@@ -813,7 +914,8 @@
 		"catch_rate":90,
 		"base_flee":89,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms."
 	},
 	"Exeggutor":{
 		"pokemon_name":"Exeggutor",
@@ -821,7 +923,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE."
 	},
 	"Cubone":{
 		"pokemon_name":"Cubone",
@@ -829,7 +932,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Because it never removes its skull helmet, no one has ever seen this Pokémon's real face."
 	},
 	"Marowak":{
 		"pokemon_name":"Marowak",
@@ -837,7 +941,8 @@
 		"catch_rate":75,
 		"base_flee":95,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets."
 	},
 	"Hitmonlee":{
 		"pokemon_name":"Hitmonlee",
@@ -845,7 +950,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides."
 	},
 	"Hitmonchan":{
 		"pokemon_name":"Hitmonchan",
@@ -853,7 +959,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see."
 	},
 	"Lickitung":{
 		"pokemon_name":"Lickitung",
@@ -861,7 +968,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies."
 	},
 	"Koffing":{
 		"pokemon_name":"Koffing",
@@ -869,7 +977,8 @@
 		"catch_rate":190,
 		"base_flee":50,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning."
 	},
 	"Weezing":{
 		"pokemon_name":"Weezing",
@@ -877,7 +986,8 @@
 		"catch_rate":60,
 		"base_flee":101,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years."
 	},
 	"Rhyhorn":{
 		"pokemon_name":"Rhyhorn",
@@ -885,7 +995,8 @@
 		"catch_rate":120,
 		"base_flee":77,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying."
 	},
 	"Rhydon":{
 		"pokemon_name":"Rhydon",
@@ -893,7 +1004,8 @@
 		"catch_rate":60,
 		"base_flee":101,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees."
 	},
 	"Chansey":{
 		"pokemon_name":"Chansey",
@@ -901,7 +1013,8 @@
 		"catch_rate":30,
 		"base_flee":113,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"A rare and elusive Pokémon that is said to bring happiness to those who manage to get it."
 	},
 	"Tangela":{
 		"pokemon_name":"Tangela",
@@ -909,7 +1022,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"The whole body is swathed with wide vines that are similar to sea- weed. Its vines shake as it walks."
 	},
 	"Kangaskhan":{
 		"pokemon_name":"Kangaskhan",
@@ -917,7 +1031,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"The infant rarely ventures out of its mother's protective pouch until it is 3 years old."
 	},
 	"Horsea":{
 		"pokemon_name":"Horsea",
@@ -925,7 +1040,8 @@
 		"catch_rate":225,
 		"base_flee":36,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Known to shoot down flying bugs with precision blasts of ink from the surface of the water."
 	},
 	"Seadra":{
 		"pokemon_name":"Seadra",
@@ -933,7 +1049,8 @@
 		"catch_rate":75,
 		"base_flee":95,
 		"baited_flee":1,
-		"angered_flee":14
+		"angered_flee":14,
+		"pokedex_entry":"Capable of swim- ming backwards by rapidly flapping its wing-like pectoral fins and stout tail."
 	},
 	"Goldeen":{
 		"pokemon_name":"Goldeen",
@@ -941,7 +1058,8 @@
 		"catch_rate":225,
 		"base_flee":36,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen."
 	},
 	"Seaking":{
 		"pokemon_name":"Seaking",
@@ -949,7 +1067,8 @@
 		"catch_rate":60,
 		"base_flee":101,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"In the autumn spawning season, they can be seen swimming power- fully up rivers and creeks."
 	},
 	"Staryu":{
 		"pokemon_name":"Staryu",
@@ -957,7 +1076,8 @@
 		"catch_rate":225,
 		"base_flee":36,
 		"baited_flee":1,
-		"angered_flee":6
+		"angered_flee":6,
+		"pokedex_entry":"An enigmatic Pokémon that can effortlessly regenerate any appendage it loses in battle."
 	},
 	"Starmie":{
 		"pokemon_name":"Starmie",
@@ -965,7 +1085,8 @@
 		"catch_rate":60,
 		"base_flee":101,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Its central core glows with the seven colors of the rainbow. Some people value the core as a gem."
 	},
 	"Mr.Mime":{
 		"pokemon_name":"Mr.Mime",
@@ -973,7 +1094,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"If interrupted while it is miming, it will slap around the offender with its broad hands."
 	},
 	"Scyther":{
 		"pokemon_name":"Scyther",
@@ -981,7 +1103,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"With ninja-like agility and speed, it can create the illusion that there is more than one."
 	},
 	"Jynx":{
 		"pokemon_name":"Jynx",
@@ -989,7 +1112,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"It seductively wiggles its hips as it walks. It can cause people to dance in unison with it."
 	},
 	"Electabuzz":{
 		"pokemon_name":"Electabuzz",
@@ -997,7 +1121,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Normally found near power plants, they can wander away and cause major blackouts in cities."
 	},
 	"Magmar":{
 		"pokemon_name":"Magmar",
@@ -1005,7 +1130,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Its body always burns with an orange glow that enables it to hide perfectly among flames."
 	},
 	"Pinsir":{
 		"pokemon_name":"Pinsir",
@@ -1013,7 +1139,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"If it fails to crush the victim in its pincers, it will swing it around and toss it hard."
 	},
 	"Tauros":{
 		"pokemon_name":"Tauros",
@@ -1021,7 +1148,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"When it targets an enemy, it charges furiously while whipping its body with its long tails."
 	},
 	"Magikarp":{
 		"pokemon_name":"Magikarp",
@@ -1029,7 +1157,8 @@
 		"catch_rate":255,
 		"base_flee":25,
 		"baited_flee":1,
-		"angered_flee":2
+		"angered_flee":2,
+		"pokedex_entry":"In the distant past, it was somewhat stronger than the horribly weak descendants that exist today."
 	},
 	"Gyarados":{
 		"pokemon_name":"Gyarados",
@@ -1037,7 +1166,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage."
 	},
 	"Lapras":{
 		"pokemon_name":"Lapras",
@@ -1045,7 +1175,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"A Pokémon that has been over- hunted almost to extinction. It can ferry people across the water."
 	},
 	"Ditto":{
 		"pokemon_name":"Ditto",
@@ -1053,7 +1184,8 @@
 		"catch_rate":35,
 		"base_flee":111,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy."
 	},
 	"Eevee":{
 		"pokemon_name":"Eevee",
@@ -1061,7 +1193,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs."
 	},
 	"Vaporeon":{
 		"pokemon_name":"Vaporeon",
@@ -1069,7 +1202,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's."
 	},
 	"Jolteon":{
 		"pokemon_name":"Jolteon",
@@ -1077,7 +1211,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts."
 	},
 	"Flareon":{
 		"pokemon_name":"Flareon",
@@ -1085,7 +1220,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"When storing thermal energy in its body, its temperature could soar to over 1600 degrees."
 	},
 	"Porygon":{
 		"pokemon_name":"Porygon",
@@ -1093,7 +1229,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"A Pokémon that consists entirely of programming code. Capable of moving freely in cyberspace."
 	},
 	"Omanyte":{
 		"pokemon_name":"Omanyte",
@@ -1101,7 +1238,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Although long extinct, in rare cases, it can be genetically resurrected from fossils."
 	},
 	"Omastar":{
 		"pokemon_name":"Omastar",
@@ -1109,7 +1247,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"A prehistoric Pokémon that died out when its heavy shell made it impossible to catch prey."
 	},
 	"Kabuto":{
 		"pokemon_name":"Kabuto",
@@ -1117,7 +1256,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"A Pokémon that was resurrected from a fossil found in what was once the ocean floor eons ago."
 	},
 	"Kabutops":{
 		"pokemon_name":"Kabutops",
@@ -1125,7 +1265,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Its sleek shape is perfect for swim- ming. It slashes prey with its claws and drains the body fluids."
 	},
 	"Aerodactyl":{
 		"pokemon_name":"Aerodactyl",
@@ -1133,7 +1274,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"A ferocious, pre- historic Pokémon that goes for the enemy's throat with its serrated saw-like fangs."
 	},
 	"Snorlax":{
 		"pokemon_name":"Snorlax",
@@ -1141,7 +1283,8 @@
 		"catch_rate":25,
 		"base_flee":115,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful."
 	},
 	"Articuno":{
 		"pokemon_name":"Articuno",
@@ -1149,7 +1292,8 @@
 		"catch_rate":3,
 		"base_flee":123,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains."
 	},
 	"Zapdos":{
 		"pokemon_name":"Zapdos",
@@ -1157,7 +1301,8 @@
 		"catch_rate":3,
 		"base_flee":123,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts."
 	},
 	"Moltres":{
 		"pokemon_name":"Moltres",
@@ -1165,7 +1310,8 @@
 		"catch_rate":3,
 		"base_flee":123,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames."
 	},
 	"Dratini":{
 		"pokemon_name":"Dratini",
@@ -1173,7 +1319,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"Long considered a mythical Pokémon until recently when a small colony was found living underwater."
 	},
 	"Dragonair":{
 		"pokemon_name":"Dragonair",
@@ -1181,7 +1328,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"A mystical Pokémon that exudes a gentle aura. Has the ability to change climate conditions."
 	},
 	"Dragonite":{
 		"pokemon_name":"Dragonite",
@@ -1189,7 +1337,8 @@
 		"catch_rate":45,
 		"base_flee":107,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"An extremely rarely seen marine Pokémon. Its intelligence is said to match that of humans."
 	},
 	"Mewtwo":{
 		"pokemon_name":"Mewtwo",
@@ -1197,7 +1346,8 @@
 		"catch_rate":3,
 		"base_flee":123,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"It was created by a scientist after years of horrific gene splicing and DNA engineering experiments."
 	},
 	"Mew":{
 		"pokemon_name":"Mew",
@@ -1205,6 +1355,7 @@
 		"catch_rate":45,
 		"base_flee":125,
 		"baited_flee":2,
-		"angered_flee":18
+		"angered_flee":18,
+		"pokedex_entry":"So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide."
 	}
 }

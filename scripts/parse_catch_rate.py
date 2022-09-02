@@ -3,7 +3,9 @@
 # This script generates the pokedex based by parsing Bulbapedia data.
 # Scraping received 403, so I manually extracted the single html page.
 # NOTES - Processing Nidoran♂ and Nidoran♀, and Farfetch'd helped understand how character encoding works and how specific json formatting is.
+
 from pokedex_html import html
+from pokedex_entries import pokedex_entries
 from bs4 import BeautifulSoup
 
 # This was manually extracted from 'https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_catch_rate'
@@ -49,10 +51,12 @@ for item in normalized_list:
         angered_flee = 18
 
     if number != 151:
-        content += '\t\"{}\":{{\n\t\t\"pokemon_name\":\"{}\",\n\t\t\"pokedex_number\":{},\n\t\t\"catch_rate\":{},\n\t\t\"base_flee\":{},\n\t\t\"baited_flee\":{},\n\t\t\"angered_flee\":{}\n\t}},\n'.format(name,name, number, catch_rate, base_flee,baited_flee,angered_flee)
+        content += '\t\"{}\":{{\n\t\t\"pokemon_name\":\"{}\",\n\t\t\"pokedex_number\":{},\n\t\t\"catch_rate\":{},\n\t\t\"base_flee\":{},\n\t\t\"baited_flee\":{},\n\t\t\"angered_flee\":{},\n\t\t\"pokedex_entry\":\"{}\"\n\t}},\n'.format(name, name, number, catch_rate, base_flee,
+                                                                                                                                                                                                            baited_flee, angered_flee,pokedex_entries['{}'.format(name)])
     else:
-        content += '\t\"{}\":{{\n\t\t\"pokemon_name\":\"{}\",\n\t\t\"pokedex_number\":{},\n\t\t\"catch_rate\":{},\n\t\t\"base_flee\":125,\n\t\t\"baited_flee\":{},\n\t\t\"angered_flee\":{}\n\t}}\n}}\n'.format(name,name, number, catch_rate,baited_flee,angered_flee)
+        content += '\t\"{}\":{{\n\t\t\"pokemon_name\":\"{}\",\n\t\t\"pokedex_number\":{},\n\t\t\"catch_rate\":{},\n\t\t\"base_flee\":125,\n\t\t\"baited_flee\":{},\n\t\t\"angered_flee\":{},\n\t\t\"pokedex_entry\":\"{}\"\n\t}}\n}}\n'.format(name, name, number, catch_rate,
+                                                                                                                                                                                                                baited_flee, angered_flee,pokedex_entries['{}'.format(name)])
 
 print(content)
-with open('..\\assets\\pokedex.json','w',encoding='utf-8') as output_file:
+with open('..\\assets\\pokedex.json', 'w', encoding='utf-8') as output_file:
     output_file.write(content)
