@@ -38,7 +38,11 @@ def getPokemonSprites(name):
                   'up': getImages(main_path + 'move/up', True),
                   'down': getImages(main_path + 'move/down', True),
                   }
-    pokemon_dict[name.capitalize()] = animations
+    _name = name.capitalize()
+    if name == 'mr.mime':
+        _name = 'Mr.Mime'
+
+    pokemon_dict[_name] = animations
 
 
 def createPokemonSpriteDictionary():

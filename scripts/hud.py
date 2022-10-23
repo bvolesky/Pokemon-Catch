@@ -63,7 +63,7 @@ class HUD:
         self.zone_toast_y_pos = -20
 
         # TIME REMAINING
-        self.minutes_to_end = 35
+        self.minutes_to_end = 30.0166667
         self.seconds = 0
         self.countdown_seconds = 10
         self.time_remaining = None
@@ -510,7 +510,7 @@ class HUD:
                 self.confetti_sound.play()
                 pygame.time.wait(5000)
                 self.epilogue_sound.set_volume(0.2)
-                self.epilogue_sound.play()
+                self.epilogue_sound.play(100)
 
             # GET USER INPUT FOR QUIT OR RESTART
             while True:
