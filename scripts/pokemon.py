@@ -6,11 +6,11 @@ import random
 
 # ENTITY THAT PLAYER CAPTURES
 class Pokemon(Entity):
-    def __init__(self, pos, groups, barrier_group, visible_group, grass_group,death_group,pokemon_sprites,pokemon_on_level,pokemon,player):
+    def __init__(self, pos, groups, barrier_group, visible_group, grass_group,death_group,pokemon_sprites,pokemon_on_level,pokemon,player,animations):
         super().__init__(groups, barrier_group, visible_group, grass_group,death_group,pokemon_on_level)
 
         # GRAPHICS
-        self.animations = getPokemonSprites(pokemon["pokemon_name"].lower())
+        self.animations = animations
         self.image = self.animations['down'][0]
 
         # BOUNDARIES

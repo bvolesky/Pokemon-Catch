@@ -21,7 +21,7 @@ class Game:
 
         # APPLICATION WINDOW
         self.caption = "Pokémon Catch!"
-        self.app_icon = pygame.image.load('assets/images/screens/launch/pokeball.ico')
+        self.app_icon = pygame.image.load('assets/images/screens/launch/icon.ico')
         pygame.display.set_icon(self.app_icon)
         self.screen = pygame.display.set_mode((800, 600), pygame.NOFRAME)
         pygame.display.set_caption(self.caption)

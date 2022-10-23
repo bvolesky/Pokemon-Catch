@@ -6,6 +6,7 @@ from scripts.pokemon import Pokemon
 from scripts.hud import HUD
 from scripts.camera import Camera
 from scripts.animation import *
+from scripts.support import createPokemonSpriteDictionary
 
 
 # PLAYABLE STAGE
@@ -33,6 +34,7 @@ class Level:
 
         # POKÉMON
         self.max_pokemon_at_once = 10
+        self.pokemon_dict = createPokemonSpriteDictionary()
 
         # PICKUPS
         self.pokeball_image = pygame.image.load('assets/images/sprites/pickups/balls/pokeball/throw/down/0.png').convert_alpha()
@@ -256,7 +258,7 @@ class Level:
         # SPAWN POKÉMON
         if self.player.pokemon_appeared and self.player.pokemon_appeared['pokemon_name'] not in self.player.caught_pokemon and self.player.pokemon_appeared["pokemon_name"] not in self.player.pokemon_on_level and len(self.player.pokemon_on_level) < self.max_pokemon_at_once:
             self.player.pokemon_on_level.append(self.player.pokemon_appeared['pokemon_name'])
-            self.player.pokemon = Pokemon((self.player.hitbox.x, self.player.hitbox.y), [self.visible_group, self.pokemon_group], self.barrier_group, self.visible_group, self.grass_group,self.death_group,self.pokemon_group,self.player.pokemon_on_level, self.player.pokemon_appeared,self.player)  # self.player.pokemon_appeared['pokemon_name'].lower()
+            self.player.pokemon = Pokemon((self.player.hitbox.x, self.player.hitbox.y), [self.visible_group, self.pokemon_group], self.barrier_group, self.visible_group, self.grass_group,self.death_group,self.pokemon_group,self.player.pokemon_on_level, self.player.pokemon_appeared,self.player,self.pokemon_dict[self.player.pokemon_appeared['pokemon_name']])  # self.player.pokemon_appeared['pokemon_name'].lower()
             self.screen.blit(self.player.pokemon.image, (self.player.hitbox.x, self.player.hitbox.y))
             self.player.pokemon_appeared = False
 
