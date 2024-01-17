@@ -5,10 +5,9 @@
 This is a safari based game where you catch all 151 Pokémon as fast as possible!  
 
 ## Usage (For Windows Users):
-Download, unzip, then run: **"Pokémon Catch!.exe"**
-Sometimes Windows will think the executable is suspicous so it may prevent it from running.  
-You may have to say allow to run the app since its not digitally signed.  
-You also may have to right click the executable > properties > Unlink from windows defender  
+- Download, unzip, then run the digitally signed application: **"Pokémon Catch!.exe"**  
+  - Sometimes Windows will still think the executable is suspicous so it may prevent it from running.
+  - You may have to right click the executable > properties > unlink from windows defender  
 
 ## Learnings
 Embarking on the journey of developing 'Pokémon Catch' was a fulfillment of a long-held aspiration. The dream of crafting a game, particularly one inspired by the world of Pokémon, has always been a part of my bucket list, and achieving this milestone has been immensely gratifying.
