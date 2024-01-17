@@ -1,10 +1,11 @@
 # [Download Pokémon Catch!⬇](https://github.com/bvolesky/Pokemon-Catch/archive/refs/heads/main.zip)
-This is a safari based game where you catch all 151 Pokémon as fast as possible!
-Download, unzip, then run: **"Pokémon Catch!.exe"**
+[![Loading Image](/assets/images/screens/launch/game_play.png)](https://github.com/bvolesky/Pokemon-Catch/archive/refs/heads/main.zip)
+
+## Overview
+This is a safari based game where you catch all 151 Pokémon as fast as possible!  
 
 ## Usage (For Windows Users):
-1. Clone the Repository - ```git clone https://github.com/bvolesky/Pokemon-Catch.git```
-2. Double click on ```Pokémon Catch!.exe``` to launch the game.  
+Download, unzip, then run: **"Pokémon Catch!.exe"**
 Sometimes Windows will think the executable is suspicous so it may prevent it from running.  
 You may have to say allow to run the app since its not digitally signed.  
 You also may have to right click the executable > properties > Unlink from windows defender  
@@ -18,7 +19,5 @@ An 'aha' moment during development was the discovery of how character movement i
 
 The release of 'Pokémon Catch' marks not just the culmination of this project but also the start of an exciting journey. I am thrilled with the outcome and eagerly look forward to sharing this experience with you. I hope 'Pokémon Catch' brings as much joy and excitement to you as it has brought to me during its creation.
 
-
-[![Loading Image](/assets/images/screens/launch/game_play.png)](https://github.com/bvolesky/Pokemon-Catch/archive/refs/heads/main.zip)
 #### Copyright Notice
 This is an unofficial, non-commercial, fan-made app and is NOT affiliated, endorsed or supported by Nintendo, Game Freak and The Pokémon Company in any way. Many images used in this app are copyrighted and are supported under fair use. Pokémon and Pokémon character names are trademarks of Nintendo. No copyright infringement intended.
